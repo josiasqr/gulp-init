@@ -1,20 +1,20 @@
-- Requiere 'nodejs' y 'npm'
+# Requiere 'nodejs' y 'npm'
   Instalaciones globales unicas
 
-  # npm install --global gulp-cli
+  - npm install --global gulp-cli
 
-- Necesario
+# Necesario
   Instalacion de dependencias del proyecto "gulp"
 
-  # npm install
+  - npm install
 
-- Ejecutar
+# Ejecutar
   ubicate dentro del proyecto
 
-  # gulp
+  - gulp
 
-- Funciones adicionales
-  # gulp clean
-  # gulp imagemin
+# Funciones adicionales
+  - gulp clean
+  - gulp imagemin
 
 Nota: En caso de fallo no es por parte del proyecto
