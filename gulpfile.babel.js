@@ -54,7 +54,7 @@ gulp.task("sass", () => {
     )
     .pipe(autoprefixer())
     .pipe(gulp.dest("./public/css"))
-    .pipe(stream());
+    .pipe(server.stream());
 });
 // purgecss
 gulp.task("clean", () => {
